@@ -1,0 +1,7 @@
+{
+  "name": "szoftii1chat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
